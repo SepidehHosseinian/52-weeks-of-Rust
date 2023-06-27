@@ -34,7 +34,7 @@ cargo test
 This repository does not have any external dependencies. It only uses the standard library of Rust.
 
 ## License
-This repository is licensed under the MIT License.
+This repository is licensed under the CC0-1.0 license.
 
 ## Contributing
 Contributions are welcome and appreciated. If you want to contribute to this repository, please follow these steps:
