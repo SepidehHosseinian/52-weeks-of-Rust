@@ -52,7 +52,7 @@ Contributions are welcome and appreciated. If you want to contribute to this rep
 Please make sure that your code follows the Rust style guide and that it passes all the tests before submitting your pull request.
 
 ## Contact
-If you have any questions, suggestions, or feedback, please feel free to contact me at your_email@example.com.
+If you have any questions, suggestions, or feedback, please feel free to contact me at s.sepideh.hosseinian@gmail.com.
 
 Acknowledgements
 I would like to thank the following people and resources for helping me learn Rust:
