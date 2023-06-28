@@ -1,5 +1,5 @@
-# 100-Days-of-Rust
-100-Days-of-Rust is a repository that contains code examples and exercises for learning the Rust programming language.
+# 52-weeks-of-Rust
+52-weeks-of-Rust is a repository that contains code examples and exercises for learning the Rust programming language.
 
 ## Motivation
 Rust is a modern, fast, and safe systems programming language that aims to empower developers to create reliable and efficient software. I created this repository as a way to document my own learning journey with Rust and to share it with others who are interested in learning this amazing language.
