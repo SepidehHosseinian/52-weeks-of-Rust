@@ -20,7 +20,7 @@ To use this repository, you need to have Rust installed on your computer. You ca
 
 To clone this repository, run the following command in your terminal:
 
-git clone https://github.com/SepidehHosseinian/100-Days-of-Rust.git
+git clone https://github.com/SepidehHosseinian/52-weeks-of-Rust.git
 
 To run a code example or an exercise, navigate to the corresponding directory and run the following command:
 
